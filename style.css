@@ -98,3 +98,21 @@ h1{
     display: flex;
     margin-bottom: 300px;
 }
+.descriptionProject{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+}
+.leftSideDescriptionProject{
+    width: 30vw;
+    height: 100%;
+}
+.cat2{
+    width: 100%;
+    height: 100%;
+}
+.rightSideDescriptionProject{
+    width: 70vw;
+    height: 100%;
+    background-color: aliceblue;
+}
